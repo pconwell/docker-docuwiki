@@ -1,8 +1,8 @@
 # VERSION 0.1
 # AUTHOR:         Miroslav Prasil <miroslav@prasil.info>
 # DESCRIPTION:    Image with DokuWiki & lighttpd
-# TO_BUILD:       docker build -t mprasil/dokuwiki .
-# TO_RUN:         docker run -d -p 80:80 --name my_wiki mprasil/dokuwiki
+# TO_BUILD:       docker build -t pconwell/dokuwiki .
+# TO_RUN:         docker run -d -p 8888:80 --name my_wiki pconwell/dokuwiki
 
 
 FROM ubuntu:16.04
