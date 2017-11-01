@@ -1,3 +1,7 @@
+All credit goes to Miroslav Prasil (https://bitbucket.org/mprasil/docker_dokuwiki). However, there was an error in his (her?) repository on bitbucket but either 1) I don't know how to work bitbucket, or 2) the repo is locked down so I could not submit a pull request or an issue ticket.
+
+So, I have copied the repo here so that I can make one simple correction.
+
 DokuWiki docker container
 =========================
 
