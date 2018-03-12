@@ -1,3 +1,5 @@
+Update - original author seems to have finally updated his docker container. This repo is no longer needed.
+
 ## Credit
 
 All credit goes to Miroslav Prasil (https://hub.docker.com/r/mprasil/dokuwiki/). However, there is an error in that repo and the author (apparently) does not accept pull requests or issues so I have forked the repo here to correct the error.
